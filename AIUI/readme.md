@@ -13,5 +13,5 @@ AIUI_Json.py -- python3.x
 ```python
 python AIUI.py
 ```
-会返回结果的json，存储在目标路径下，使用AIUI——Json.py解析即可。
+会返回结果的json，存储在目标路径下，使用AIUI_Json.py解析即可。
 
